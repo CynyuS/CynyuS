@@ -31,7 +31,7 @@ CITR *WIP*: An open-sourced generative AI hardware assistant to aid in Verilog c
 - Verilog
 - And more!
 
-  ／l、\
+    ／l、\
 （ﾟ､ ｡ ７\
-  l  ~ヽ\
-  じしf_,)ノ\
+    l  ~ヽ\
+    じしf_,)ノ\
