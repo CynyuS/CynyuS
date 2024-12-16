@@ -1,4 +1,4 @@
-### Hihi! :wave:
+# Hihi! :wave:
 
 I'm Cynthia, a sophomore studying Computer Science and Electrical and Computer Engineering @ Cornell University </span>
 
@@ -31,7 +31,7 @@ CITR *WIP*: An open-sourced generative AI hardware assistant to aid in Verilog c
 - Verilog
 - And more!
 
-／l、
-（ﾟ､ ｡７
-l、ﾞ~ヽ
-じしf_, )ノ
+／l、\
+（ﾟ､ ｡７\
+l、ﾞ~ヽ\
+じしf_, )ノ\
