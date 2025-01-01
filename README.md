@@ -20,7 +20,6 @@ CITR 🤖 *WIP*: An open-sourced generative AI hardware assistant to aid in Veri
 - Digitial Logic and Design (ECE 2300)
 - Introduction to Circuits (ECE 2100)
 - Object Oriented Programming and Data Structures(CS 2110)
-- Data Science for Engineers (ENGRD 2720)
 - Introduction to Programming with Python (CS 1110)
 
 ## Languages
