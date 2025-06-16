@@ -6,6 +6,8 @@ I'm Cynthia, a junior studying Computer Science 👩‍💻 and Electrical and C
 
 Calyx FSM-optimization 💫: Optimizing and generating FSM constructs in the Calyx compiler backend <br>
 
+Allo Sparse Matrix Multiplier ✖️: Using systolic arrays to optimize sparse matrix to dense matrix multiplication <br>
+
 Project Hades ✈️: Integrating bezier spline curves into ArduPlane <br>
 
 OCaml GCS 🌎: A ground control system and plane simulation application <br>
