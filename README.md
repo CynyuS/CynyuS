@@ -18,6 +18,7 @@ CITR 🤖 *WIP*: An open-sourced generative AI hardware assistant to aid in Veri
 
 ## Relevant Coursework
 - High-Level Digital Design Automation (ECE 6775)
+- Advanced Compilers (CS 6120)
 - Computer Architecture (CS 4750)
 - Intro to Analysis of Algorithms (CS 4820)
 - Embedded Systems (CS 3420/ ECE 3140)
